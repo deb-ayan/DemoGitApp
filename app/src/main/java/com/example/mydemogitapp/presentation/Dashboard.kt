@@ -1,4 +1,4 @@
-package com.example.demogitapp.presentation
+package com.example.mydemogitapp.presentation
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.material3.Button

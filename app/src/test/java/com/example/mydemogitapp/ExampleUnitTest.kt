@@ -1,4 +1,4 @@
-package com.example.demogitapp
+package com.example.mydemogitapp
 
 import org.junit.Test
 

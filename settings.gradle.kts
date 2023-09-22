@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "DemoGitApp"
+rootProject.name = "MyDemoGitApp"
 include(":app")
  

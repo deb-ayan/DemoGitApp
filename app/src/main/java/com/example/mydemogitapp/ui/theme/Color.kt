@@ -1,4 +1,4 @@
-package com.example.demogitapp.ui.theme
+package com.example.mydemogitapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

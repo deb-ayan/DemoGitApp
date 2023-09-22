@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.demogitapp"
+    namespace = "com.example.mydemogitapp"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.demogitapp"
+        applicationId = "com.example.mydemogitapp"
         minSdk = 25
         targetSdk = 33
         versionCode = 1
